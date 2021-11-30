@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=HunterCrispProj07
+comment0.text=\r\n\ Project\ 7\r\n\r\n\ @author\ Hunter\ Crisp\r\n\ @version\ 12\ October\ 2021\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=a
+comment2.target=void\ initializeArray(int[])
+comment3.params=a
+comment3.target=void\ printArray(int[])
+comment4.params=a
+comment4.target=int\ largest(int[])
+comment5.params=a
+comment5.target=int\ smallest(int[])
+comment6.params=a
+comment6.target=int\ range(int[])
+comment7.params=a
+comment7.target=double\ average(int[])
+comment8.params=a\ k
+comment8.target=int\ linearSearch(int[],\ int)
+comment9.params=a
+comment9.target=void\ selectSort(int[])
+numComments=10
