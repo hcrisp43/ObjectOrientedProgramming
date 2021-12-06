@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=IllegalAmountException
+comment0.text=\r\n\ class\ IllegalAmountException\r\n\r\n\ @author\ Hunter\ Crisp\r\n\ @version\ 29\ November\ 2021\r\n
+comment1.params=amount
+comment1.target=IllegalAmountException(double)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ IllegalAmountException\r\n
+numComments=2

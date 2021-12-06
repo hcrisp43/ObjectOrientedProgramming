@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=SavingsAccount
+comment0.text=\r\n\ Savings\ Account\ class,\ a\ subclass\ of\ Account\r\n\r\n\ @author\ Hunter\ Crisp\r\n\ @version\ 29\ November\ 2021\r\n
+comment1.params=rate
+comment1.target=void\ setInterestRate(double)
+comment2.params=
+comment2.target=double\ getInterestRate()
+comment3.params=amount
+comment3.target=void\ withdraw(double)
+comment4.params=
+comment4.target=void\ addInterest()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

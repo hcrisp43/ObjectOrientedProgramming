@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=CheckingAccount
+comment0.text=\r\n\ Checking\ Account\ class,\ a\ subclass\ of\ Account\r\n\r\n\ @author\ Hunter\ Crisp\r\n\ @version\ 29\ November\ 2021\r\n
+comment1.params=amount
+comment1.target=void\ withdraw(double)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+numComments=3
